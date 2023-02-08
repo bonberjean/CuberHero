@@ -1,0 +1,3 @@
+# CuberHero
+Small unity project
+I'm trying to make a simple game, to get some practice and etc...
